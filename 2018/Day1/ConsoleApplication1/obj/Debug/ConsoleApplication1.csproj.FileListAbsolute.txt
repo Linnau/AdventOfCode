@@ -1,0 +1,5 @@
+D:\Code\AdventOfCode_2018\AdventOfCode_Day1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Code\AdventOfCode_2018\AdventOfCode_Day1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Code\AdventOfCode_2018\AdventOfCode_Day1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\Code\AdventOfCode_2018\AdventOfCode_Day1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Code\AdventOfCode_2018\AdventOfCode_Day1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
