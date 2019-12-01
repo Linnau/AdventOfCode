@@ -10,4 +10,11 @@ for mass in mass_ints:
     fuel = fuel-2
     fuelNeeded += fuel
 
+    additionalFuel = fuel
+
+    while additionalFuel >= 0:
+        additionalFuel = int(additionalFuel/3-2)
+        if additionalFuel >= 0:
+            fuelNeeded += additionalFuel
+
 print(fuelNeeded)
