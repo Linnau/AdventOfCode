@@ -7,7 +7,7 @@ fuelNeeded = 0
 
 for mass in mass_ints:
     fuel = int(mass / 3)
-    fuel = fuel-2
+    fuel = fuel - 2
     fuelNeeded += fuel
 
 print(fuelNeeded)
